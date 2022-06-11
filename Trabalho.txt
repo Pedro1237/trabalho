@@ -1,3 +1,6 @@
 "Olá eu me chamo Felipe "
 "Olá eu me chamo Pedro "
 "Olá eu me chamo Gustavo "
+"Eu gosto de volei "
+"Eu gosto de totó "
+"Eu gosto de futebol "

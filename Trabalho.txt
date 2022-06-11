@@ -4,3 +4,6 @@
 "Eu gosto de volei "
 "Eu gosto de totó "
 "Eu gosto de futebol "
+"Eu não gosto de física"
+"Eu não gosto de tiktok"
+"Eu não gosto do twitter"
